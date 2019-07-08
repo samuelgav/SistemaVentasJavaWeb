@@ -1,0 +1,25 @@
+<%-- any content can be specified here e.g.: --%>
+
+  <link rel="stylesheet" href="${contextRoot}/resources/css/bootstrap.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="${contextRoot}/resources/css/font-awesome.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="${contextRoot}/resources/css/ionicons.min.css">
+  <!-- DataTables -->
+  <link rel="stylesheet" href="${contextRoot}/resources/css/dataTables.bootstrap.min.css">
+  <!-- Select2 -->
+  <link rel="stylesheet" href="${contextRoot}/resources/css/select2.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="${contextRoot}/resources/css/AdminLTE.min.css">
+  <!-- Material Design -->
+  <link rel="stylesheet" href="${contextRoot}/resources/css/bootstrap-material-design.min.css">
+  <link rel="stylesheet" href="${contextRoot}/resources/css/ripples.min.css">
+  <link rel="stylesheet" href="${contextRoot}/resources/css/MaterialAdminLTE.min.css">
+  <!-- AdminLTE Skins. Choose a skin from the css/skins
+       folder instead of downloading all of them to reduce the load. -->
+  <link rel="stylesheet" href="${contextRoot}/resources/css/all-md-skins.min.css">
+  
+  <link rel="stylesheet" href="${contextRoot}/resources/css/sweetalert2.min.css">  
+    
+   <!-- Google Font -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">

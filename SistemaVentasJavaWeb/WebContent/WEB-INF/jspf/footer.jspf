@@ -1,0 +1,9 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer class="main-footer">
+    <div class="pull-right hidden-xs">
+      <b>Version</b> 1.0.0
+    </div>
+    <strong>Copyright &copy; 2019 <a href="${contextRoot}/index.jsp">DevSysIT</a> and <a href="https://github.com/samuelgav">Samuel Gavidia</a>.</strong> Todos los
+    derechos reservados.
+</footer>

@@ -1,0 +1,44 @@
+<%-- any content can be specified here e.g.: --%>
+  
+<!-- jQuery 3 -->
+<script src="${contextRoot}/resources/js/jquery.min.js"></script>
+
+<script src="${contextRoot}/resources/js/jquery.validate.js"></script>
+
+<!-- jQuery UI 1.11.4 -->
+<script src="${contextRoot}/resources/js/jquery-ui.min.js"></script>
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+<script>
+  $.widget.bridge('uibutton', $.ui.button);
+</script>
+<!-- Bootstrap 3.3.7 -->
+<script src="${contextRoot}/resources/js/bootstrap.min.js"></script>
+<!-- Material Design -->
+<script src="${contextRoot}/resources/js/material.min.js"></script>
+<script src="${contextRoot}/resources/js/ripples.min.js"></script>
+<script>
+    $.material.init();
+</script>
+<!-- Select2 -->
+<script src="${contextRoot}/resources/js/select2.full.min.js"></script>
+<!-- DataTables -->
+<script src="${contextRoot}/resources/js/jquery.dataTables.min.js"></script>
+<script src="${contextRoot}/resources/js/dataTables.bootstrap.min.js"></script>
+<!-- DataTable Bootstrap Script -->
+<script src="${contextRoot}/resources/js/bootbox.min.js"></script>
+<!-- FastClick -->
+<script src="${contextRoot}/resources/js/fastclick.js"></script>
+<!-- AdminLTE App -->
+<script src="${contextRoot}/resources/js/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="${contextRoot}/resources/js/demo.js"></script>
+
+<script src="${contextRoot}/resources/js/sweetalert2.min.js"></script>
+
+<script src="${contextRoot}/resources/js/myapp.js"></script>
+
+<script>
+$(function() {
+	$('.select2').select2()
+});
+</script> 
